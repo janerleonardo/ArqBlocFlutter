@@ -1,0 +1,1 @@
+El paquete resources contendrá la clase repositorio y la clase implementada de la llamada de red.

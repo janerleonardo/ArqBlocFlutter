@@ -1,0 +1,1 @@
+El paquete ui contendrá nuestras pantallas que serán visibles para el usuario.

@@ -1,0 +1,1 @@
+El paquete models contendrá la clase POJO o la clase modelo de la respuesta JSON que obtendremos del servidor.
